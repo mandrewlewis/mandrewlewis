@@ -1,12 +1,7 @@
+# Thanks for stopping by!
+
 - 👋 Hi, I’m @mandrewlewis
-- 👀 I’m interested in game development and hobbist programming
-- 🌱 I’m currently learning python3
+- 👀 I’m always looking to develope creative project that help people do what ever they do
+- 🌱 I’m currently learning Ruby and working my way toward becoming a well-rounded, self-taught developer
 
-
-<!---
-mandrewlewis/mandrewlewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+## Check-out the projects I'm working on.
